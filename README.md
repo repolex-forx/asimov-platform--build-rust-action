@@ -36,22 +36,32 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
+│   ├── lsp
+│   │   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
+│   └── repolex
+│       └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 ├── blob
 │   ├── 6f7a55ff845441dff0091f64ac7ca49cd94e713a.nq.gz
 │   ├── 6f7fbfa9683df2a9c6828053ba22f57dc9538550.nq.gz
+│   ├── 9c6d4853922f5be63941f95f9c89834e56747601.nq.gz
+│   ├── abe2f89221705a5bb3a4d365000a88266ef7f728.nq.gz
 │   └── fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
 ├── filetree
+│   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 ├── issue
 │   └── issue.nq.gz
 └── tag
     └── tag.nq.gz
 
-7 directories, 8 files
+11 directories, 14 files
 ```
 
 | Directory | What it contains |
