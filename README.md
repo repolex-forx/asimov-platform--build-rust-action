@@ -38,12 +38,16 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │   │   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 │   ├── lsp
+│   │   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │   │   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 │   └── repolex
+│       ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │       └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 ├── blob
+│   ├── 23955edf6e81e1fbafe62246dbf15b7f0bddc4fd.nq.gz
 │   ├── 6f7a55ff845441dff0091f64ac7ca49cd94e713a.nq.gz
 │   ├── 6f7fbfa9683df2a9c6828053ba22f57dc9538550.nq.gz
 │   ├── 9c6d4853922f5be63941f95f9c89834e56747601.nq.gz
@@ -55,13 +59,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── commit.nq.gz
 ├── filetree
 │   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
-│   └── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
+│   ├── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
+│   └── aaff988b13b6a96b51ec44a4fc182697097a6bf7.nq.gz
 ├── issue
 │   └── issue.nq.gz
 └── tag
     └── tag.nq.gz
 
-11 directories, 14 files
+11 directories, 19 files
 ```
 
 | Directory | What it contains |
