@@ -36,8 +36,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/build-rust-action/commit/fe4d5b2a97e3288b1136890f4624e0140213c0b9",
       "git:hexsha": "fe4d5b2a97e3288b1136890f4624e0140213c0b9",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v6",
+      "repolex:parsedAt": "2026-04-03T01:30:34.820793+00:00"
     }
   ]
 }
