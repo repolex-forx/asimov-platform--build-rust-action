@@ -36,6 +36,20 @@
       ],
       "lsp": "aggregate/lsp/15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz",
       "repolex": "aggregate/repolex/15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz"
+    },
+    {
+      "commit": "aaff988b13b6a96b51ec44a4fc182697097a6bf7",
+      "parsed_at": "2026-04-03T01:17:07.917020+00:00",
+      "tag": "v4",
+      "filetree": "filetree/aaff988b13b6a96b51ec44a4fc182697097a6bf7.nq.gz",
+      "blobs": [
+        "blob/9c6d4853922f5be63941f95f9c89834e56747601.nq.gz",
+        "blob/23955edf6e81e1fbafe62246dbf15b7f0bddc4fd.nq.gz",
+        "blob/6f7a55ff845441dff0091f64ac7ca49cd94e713a.nq.gz",
+        "blob/fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz",
+        "blob/abe2f89221705a5bb3a4d365000a88266ef7f728.nq.gz",
+        "blob/6f7fbfa9683df2a9c6828053ba22f57dc9538550.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
