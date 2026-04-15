@@ -94,10 +94,10 @@
         "blob/23955edf6e81e1fbafe62246dbf15b7f0bddc4fd.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz"
+        "aggregate/ast/fe4d5b2a97e3288b1136890f4624e0140213c0b9"
       ],
       "lsp": "aggregate/lsp/fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz",
-      "repolex": "aggregate/repolex/fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz"
+      "repolex": "aggregate/repolex/fe4d5b2a97e3288b1136890f4624e0140213c0b9"
     }
   ],
   "commit": "commit/commit.nq.gz",
