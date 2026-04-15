@@ -41,17 +41,24 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │   │   ├── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 │   │   ├── aaff988b13b6a96b51ec44a4fc182697097a6bf7.nq.gz
-│   │   └── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│   │   ├── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│   │   ├── fe4d5b2a97e3288b1136890f4624e0140213c0b9
+│   │   │   └── chunk-001.nq.gz
+│   │   └── fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz
 │   ├── lsp
 │   │   ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │   │   ├── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 │   │   ├── aaff988b13b6a96b51ec44a4fc182697097a6bf7.nq.gz
-│   │   └── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│   │   ├── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│   │   └── fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz
 │   └── repolex
 │       ├── 15c87d7d0f04601ad3de60cc971233da7ea3c402.nq.gz
 │       ├── 3a4f96d9b47405e1f5b11fb75fbbfd70d97d4fde.nq.gz
 │       ├── aaff988b13b6a96b51ec44a4fc182697097a6bf7.nq.gz
-│       └── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│       ├── f0470f4a18e5824544cda9bfe5a9bc46a6a119b8.nq.gz
+│       ├── fe4d5b2a97e3288b1136890f4624e0140213c0b9
+│       │   └── chunk-001.nq.gz
+│       └── fe4d5b2a97e3288b1136890f4624e0140213c0b9.nq.gz
 ├── blob
 │   ├── 23955edf6e81e1fbafe62246dbf15b7f0bddc4fd.nq.gz
 │   ├── 5b6a90cb584e99dbe3f1345750b5c51e33dc14b0.nq.gz
@@ -77,7 +84,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-11 directories, 30 files
+13 directories, 35 files
 ```
 
 | Directory | What it contains |
@@ -97,4 +104,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [asimov-platform/build-rust-action](https://github.com/asimov-platform/build-rust-action)
 
 ---
-*Parsed on 2026-04-03 by [repolex](https://repolex.ai)*
+*Parsed on 2026-04-15 by [repolex](https://repolex.ai)*
